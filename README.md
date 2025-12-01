@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Uday Chanpa</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
 
-- 📫 How to reach me **udaychanpa635@gmail.com**
+- 📫 How to reach me **udaychanpa101@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
